@@ -1,0 +1,1 @@
+# smee2-hosting
